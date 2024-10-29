@@ -1,4 +1,5 @@
-![Screenshot of Data Science]("C:\Users\sriva\Downloads\Data Science.png")
+![App Screenshot](![image](https://github.com/user-attachments/assets/b20faecc-b2fe-4a52-b505-79727e882503)
+")
 # TOOLS-IN-DATA-SCIENCE
 
 This repo contains project done by me in the course of tools in data science which is part of BSC degree in Programming and Data Science from IIT Madras.
