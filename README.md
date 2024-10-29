@@ -33,5 +33,5 @@ The results are saved in `users.csv` and `repositories.csv`.
 1. Ensure you have a GitHub personal access token and add it to the script where indicated.
 2. Run the script using:
    ```bash
-   python code.py
+   python Code.py
 
