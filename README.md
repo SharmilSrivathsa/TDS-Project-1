@@ -1,4 +1,4 @@
-![App Screenshot](https://media.licdn.com/dms/image/v2/D5612AQGMvuvrk6DE4g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1702789013057?e=2147483647&v=beta&t=CWEzLTi_eVCtxCGSDMDMQ6x2g0upVBPkc1Rm67fjivg.jpg)
+![Screenshot of Data Science]("C:\Users\sriva\Downloads\Data Science.png")
 # TOOLS-IN-DATA-SCIENCE
 
 This repo contains project done by me in the course of tools in data science which is part of BSC degree in Programming and Data Science from IIT Madras.
