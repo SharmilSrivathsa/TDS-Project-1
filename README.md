@@ -1,4 +1,4 @@
-![App Screenshot](![image](https://github.com/user-attachments/assets/b20faecc-b2fe-4a52-b505-79727e882503)
+![Tools In Data Science](https://github.com/user-attachments/assets/b20faecc-b2fe-4a52-b505-79727e882503)
 ")
 # TOOLS-IN-DATA-SCIENCE
 
