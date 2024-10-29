@@ -15,9 +15,9 @@ This repository contains data on GitHub users located in Basel, Switzerland, wit
 ### Files Included
 1. `users.csv`: Contains details of each user such as their username, company, location, email, bio, number of followers, etc.
 2. `repositories.csv`: Contains repository information for each user, with fields such as repository name, creation date, stars, watchers, programming language, and license type.
-3. 
+3. `TDS Project-1.ipynb`:Contains code used for the retrival of the data.
 #### Code Details
-The `Code.py` script uses the GitHub API to:
+The `TDS Project-1.ipynb` script uses the GitHub API to:
 - Find users in Basel with more than 10 followers.
 - Fetch detailed information about each user.
 - Retrieve up to 500 of each user’s public repositories.
@@ -27,5 +27,5 @@ The results are saved in `users.csv` and `repositories.csv`.
 1. Ensure you have a GitHub personal access token and add it to the script where indicated.
 2. Run the script using:
    ```bash
-   python Code.py
+   python TDS Project-1.ipynb
 
