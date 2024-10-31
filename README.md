@@ -7,8 +7,8 @@ This repo contains project done by me in the course of tools in data science whi
 
 # GitHub Basel Users Data
 - This project uses the GitHub API to retrieve profiles of users in Basel with over 10 followers and their public repositories.
-- Analysis reveals that most users have repositories with under 5 stars, showing room for improvement in community engagement.
-- To gain traction, developers should focus on improving repository descriptions and actively contributing to open-source projects.
+- The analysis of the repository data reveals that while developers in Basel are actively creating projects, many of these repositories struggle with low visibility and engagement, as evidenced by the minimal stargazer counts. Additionally, features like wikis and project boards are often underutilized, indicating missed opportunities for better documentation and community interaction. 
+- To gain traction or to enhance project success, developers should focus on improving documentation, actively promoting their work on social media, and leveraging available features to foster collaboration. By aligning their efforts with popular programming languages and frameworks, they can increase their chances of attracting more users and contributors..
 
 ## Project Overview
 This repository contains data on GitHub users located in Basel, Switzerland, with more than 10 followers. The data includes user profiles and details of their public repositories.
